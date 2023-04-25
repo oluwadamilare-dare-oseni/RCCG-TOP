@@ -1,3 +1,3 @@
-this is my start
+this is my start and am ok
 
 and here i move on to commit number 2
